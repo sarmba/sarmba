@@ -4,7 +4,7 @@ I am a master's student at Northeastern University, studying Bioinformatics and 
 
 ## Coding
 
-The majority of my code is done in python, with the rest in bash/shell scripts for linux. I am looking to branch into new languages, and willing to collaborate on projects for machine learning, artificial intelligence, and data analysis.
+The majority of my code is done in python or R, with the rest in bash/shell scripts for linux. I am looking to branch into new languages, and willing to collaborate on projects for machine learning, artificial intelligence, and data analysis.
 
 ## Private Repositories
 
